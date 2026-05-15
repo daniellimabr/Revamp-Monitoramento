@@ -1,0 +1,15 @@
+# Dados e imagens - gerados localmente, nao versionar
+imagens/
+*.csv
+*.png
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Credenciais e tokens
+token_drive.json
+client_secret_*.json
+
+# Logs
+logs/
